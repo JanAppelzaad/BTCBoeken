@@ -1,16 +1,16 @@
-Bitcoin boekenlijst.
+## Bitcoin boekenlijst.
 
 Ingedeeld op hoofdonderwerp. 
 
-Geschiedenis
+### Geschiedenis
 - When Money Dies - Adam Fergusson
 - The Gulag Archipelago - Aleksandr Solhenitzyn
 
-Filosofie
+### Filosofie
 - Antifragile - Nassim Nicholas Taleb
 - The Black Swan - Nassim Nicholas Taleb
 
-Economie
+### Economie
 - The Price of Tomorrow - Jeff Booth
 - Basic Economics - Thomas Sowell
 - Principles of Economics - Carl Menger
@@ -18,10 +18,10 @@ Economie
 - Economics in One Lesson - Henry Hazlitt
 - Capitalism and Freedom - Milton Friedman
 
-Politiek
+### Politiek
 - The Sovereign Individual - James Dale Davidson, Lord William Rees Mogg
 
-Bitcoin
+### Bitcoin
 - The Bitcoin Standard - Saifedean Ammous
 - Inventing Bitcoin - Jan Pritzker
 - Why Buy Bitcoin - Andy Edstrom
